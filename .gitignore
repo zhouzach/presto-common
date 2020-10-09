@@ -1,0 +1,22 @@
+
+src/main/resources
+
+
+target/
+project/target
+project/project/target
+.idea
+*.iml
+*.MF
+classes
+
+### user files
+*.pdf
+*.html
+mave
+
+### macOS template
+*.DS_Store
+
+push.sh
+prod-push.sh
